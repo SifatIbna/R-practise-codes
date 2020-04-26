@@ -1,0 +1,27 @@
+]0;sifat@sifat-HP-ProBook-450-G4:~/Personal Work/Data Science/First Project]7;file://sifat-HP-ProBook-450-G4/home/sifat/Personal%20Work/Data%20Science/First%20Project(base) ]0;sifat@sifat-HP-ProBook-450-G4: ~/Personal Work/Data Science/First Project[01;32msifat@sifat-HP-ProBook-450-G4[00m:[01;34m~/Personal  Work/Data Science/First Project[00m$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31m../.gitignore[m
+	[31m./[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+]0;sifat@sifat-HP-ProBook-450-G4:~/Personal Work/Data Science/First Project]7;file://sifat-HP-ProBook-450-G4/home/sifat/Personal%20Work/Data%20Science/First%20Project(base) ]0;sifat@sifat-HP-ProBook-450-G4: ~/Personal Work/Data Science/First Project[01;32msifat@sifat-HP-ProBook-450-G4[00m:[01;34m~/Personal  Work/Data Science/First Project[00m$ ls
+'First Project.Rproj'
+]0;sifat@sifat-HP-ProBook-450-G4:~/Personal Work/Data Science/First Project]7;file://sifat-HP-ProBook-450-G4/home/sifat/Personal%20Work/Data%20Science/First%20Project(base) ]0;sifat@sifat-HP-ProBook-450-G4: ~/Personal Work/Data Science/First Project[01;32msifat@sifat-HP-ProBook-450-G4[00m:[01;34m~/Personal  Work/Data Science/First Project[00m$ [K[A(base) ]0;sifat@sifat-HP-ProBook-450-G4: ~/Personal Work/Data Science/First Project[01;32msifat@sifat-HP-ProBook-450-G4[00m:[01;34m~/Personal Work/Data SScience/First Project[00m$ clear
+]0;sifat@sifat-HP-ProBook-450-G4:~/Personal Work/Data Science/First Project]7;file://sifat-HP-ProBook-450-G4/home/sifat/Personal%20Work/Data%20Science/First%20Project(base) ]0;sifat@sifat-HP-ProBook-450-G4: ~/Personal Work/Data Science/First Project[01;32msifat@sifat-HP-ProBook-450-G4[00m:[01;34m~/Personal Work/Data Science/First Project[00m$ git st atus
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31m../.gitignore[m
+	[31m./[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+]0;sifat@sifat-HP-ProBook-450-G4:~/Personal Work/Data Science/First Project]7;file://sifat-HP-ProBook-450-G4/home/sifat/Personal%20Work/Data%20Science/First%20Project(base) ]0;sifat@sifat-HP-ProBook-450-G4: ~/Personal Work/Data Science/First Project[01;32msifat@sifat-HP-ProBook-450-G4[00m:[01;34m~/Personal Work/Data Science/First Project[00m$ clear
+[H[2J[3J]0;sifat@sifat-HP-ProBook-450-G4:~/Personal Work/Data Science/First Project]7;file://sifat-HP-ProBook-450-G4/home/sifat/Personal%20Work/Data%20Science/First%20Project(base) ]0;sifat@sifat-HP-ProBook-450-G4: ~/Personal Work/Data Science/First Project[01;32msifat@sifat-HP-ProBook-450-G4[00m:[01;34m~/Personal Work/Data Science/First Project[00m$ [K(base) ]0;sifat@sifat-HP-ProBook-450-G4: ~/Personal Work/Data Science/First Project[01;32msifat@sifat-HP-ProBook-450-G4[00m:[01;34m~/Personal Work/Data Science/First Project[00m$ [K(base) ]0;sifat@sifat-HP-ProBook-450-G4: ~/Personal Work/Data Science/First Project[01;32msifat@sifat-HP-ProBook-450-G4[00m:[01;34m~/Personal Work/Data Science/First Project[00m$ [K(base) ]0;sifat@sifat-HP-ProBook-450-G4: ~/Personal Work/Data Science/First Project[01;32msifat@sifat-HP-ProBook-450-G4[00m:[01;34m~/Personal Work/Data Science/First Project[00m$ [K(base) ]0;sifat@sifat-HP-ProBook-450-G4: ~/Personal Work/Data Science/First Project[01;32msifat@sifat-HP-ProBook-450-G4[00m:[01;34m~/Personal Work/Data Scieence/First Project[00m$ [K[A(base) ]0;sifat@sifat-HP-ProBook-450-G4: ~/Personal Work/Data Science/First Project[01;32msifat@sifat-HP-ProBook-450-G4[00m:[01;34m~/Personal Work/Data SScience/First Project[00m$ [K[A(base) ]0;sifat@sifat-HP-ProBook-450-G4: ~/Personal Work/Data Science/First Project[01;32msifat@sifat-HP-ProBook-450-G4[00m:[01;34m~/Personal Work/Data SScience/First Project[00m$ [K[A(base) ]0;sifat@sifat-HP-ProBook-450-G4: ~/Personal Work/Data Science/First Project[01;32msifat@sifat-HP-ProBook-450-G4[00m:[01;34m~/Personal Work/Data SScience/First Project[00m$ [K[A(base) ]0;sifat@sifat-HP-ProBook-450-G4: ~/Personal Work/Data Science/First Project[01;32msifat@sifat-HP-ProBook-450-G4[00m:[01;34m~/Personal Work/Data SScience/First Project[00m$ 

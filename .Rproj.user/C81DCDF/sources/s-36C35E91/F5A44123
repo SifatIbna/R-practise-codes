@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587941635026.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F5A44123",
+    "lastKnownWriteTime" : 1587935003,
+    "last_content_update" : 1587935003,
+    "path" : "~/Personal Work/Data Science/First Project/r-practise-2/pollutantmean.R",
+    "project_path" : "r-practise-2/pollutantmean.R",
+    "properties" : {
+        "cursorPosition" : "12,1",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

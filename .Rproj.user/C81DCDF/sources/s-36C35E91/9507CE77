@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587941619766.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9507CE77",
+    "lastKnownWriteTime" : 1587939631,
+    "last_content_update" : 1587939631,
+    "path" : "~/Personal Work/Data Science/First Project/r-practise-2/complete.R",
+    "project_path" : "r-practise-2/complete.R",
+    "properties" : {
+        "cursorPosition" : "7,15",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
